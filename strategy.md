@@ -1,4 +1,3 @@
-Startegy defined below
-chnage with strategy
+Strategy Window
 
-New change
+1. 
