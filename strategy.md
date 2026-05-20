@@ -1,0 +1,1 @@
+Startegy defined below
